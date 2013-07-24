@@ -53,7 +53,6 @@ if (!function_exists('config')) {
 				$included++;
 			}
 		}
-		return null;
 		return $included === $count;
 	}
 
