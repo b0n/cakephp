@@ -9,6 +9,8 @@
 /dist
 /tags
 
+/lib/Cake_
+
 # OS generated files #
 ######################
 .DS_Store
